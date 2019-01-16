@@ -2,3 +2,5 @@
 Example for Tutorial 1
 
 Exploring git branch feature.
+
+edits in documentation
